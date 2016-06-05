@@ -1,0 +1,6 @@
+framework module EECellSwipeGestureRecognizer {
+  umbrella header "EECellSwipeGestureRecognizer-umbrella.h"
+
+  export *
+  module * { export * }
+}

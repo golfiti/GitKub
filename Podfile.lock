@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (3.1.5)
+  - EECellSwipeGestureRecognizer (0.4.3)
+  - PKHUD (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.1.4)
+  - EECellSwipeGestureRecognizer (~> 0.4.2)
+  - PKHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  EECellSwipeGestureRecognizer: 79a7ec3afbe6b5902d564cbbbd3b42b894b882cb
+  PKHUD: 4167eccdb1b3a892fd80ce2b51cb6ba412a889ab
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,6 @@
+framework module Pods_GitKub {
+  umbrella header "Pods-GitKub-umbrella.h"
+
+  export *
+  module * { export * }
+}
